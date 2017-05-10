@@ -5,14 +5,14 @@
 	id = "com.phonegap.example6"
 	version = "1.0.0">
 	
-	<name> app6 BATALLA DEL 5 DE MAYO </name>
+	<name> app6 5 de mayo </name>
 	
 	<description>
-	Aplicacion que muestra informacion la batalla del 5 de mayo
+	Aplicacion que muestra informacion sobre la batalla del 5 de mayo
 	</description>
 	
-	<author href="https://build.phonegap.com" email="santiago.gordiano.cbtis16@gmail.com">
-		Santiago Roberto Gordiano Ramirez  4"E"
+	<author href="https://build.phonegap.com" email="lilianahdzz666@gmail.com">
+		Santiago Roberto Gordiano Ramirez 4"E"
 	</author>
 	
 	<!-- Personaliza la aplicacion y plataforma -->
@@ -38,7 +38,7 @@
 	<acces origin="https://*/*"/>
 	<allow-intent href="http://*/*"/>
 	<acces origin="http://*/*"/>
-	<plugin name="cordova-plugin-whitelist" source="npm"/>
+	<plugin name="cordova-plugin-whitelist" source=npm/>
 	
 	<!-- Colocar icono app -->
 	
